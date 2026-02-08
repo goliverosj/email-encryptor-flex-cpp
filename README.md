@@ -1,5 +1,4 @@
 # Email Encryptor using Flex and C++
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/goliverosj/email-encryptor-flex-cpp)
 
 This repository contains a C++ and Flex-based tool designed to find and encrypt email addresses within text files. It can also decrypt the previously encrypted emails.
 
