@@ -1,0 +1,12 @@
+# Ignorar ejecutables
+prog
+*.exe
+*.out
+
+# Ignorar archivos generados por Flex (opcional, recomendado)
+lex.yy.cc
+
+# Ignorar salidas temporales
+salida_modificada.txt
+desencriptados.txt
+encriptados.txt
